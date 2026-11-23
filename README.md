@@ -26,7 +26,7 @@ Tic-Tac-Toe is a zero-sum, perfect-information game. The Minimax algorithm perfo
 
 ##  Features
 
-- **🎮 Dual Interfaces:** 
+- **Dual Interfaces:** 
   - **Modern Desktop GUI (Tkinter):** Sleek dark theme, symbol toggling ($X$ or $O$), live scoreboard, and winning line highlights.
   - **Console CLI Mode:** Fast terminal gameplay using `python main.py --cli`.
 - ** 3 Difficulty Levels:**
